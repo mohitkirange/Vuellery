@@ -1,6 +1,9 @@
-# offline-gallery
+# Vuellery - offline gallery
 
 > A Vue.js project
+
+## Screenshot
+![Homepage](https://github.com/mohitkirange/Vuellery/blob/master/screenshot.png)
 
 ## Build Setup
 
